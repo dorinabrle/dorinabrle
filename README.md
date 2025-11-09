@@ -26,7 +26,7 @@ The best technology succeeds when developers build what works, business models s
 
 Throughout my career, I've worked at the intersection of technology and business strategy:
 
-**Founder and CEO** - co-founded, ran and scaled a startup in Switzerland, grew the team to 45, offices in Germany and US, raised $20M from European and leading SF VCs. 
+**Founder and CEO** - co-founded, ran and scaled a startup in Switzerland, grew the team to 45, offices in Germany and US, raised $20M from European and leading SF VCs, Business Angels, and grants. 
 
 **Startup Ecosystem Builder** – Center for Entrepreneurship (HSG), Innosuisse, and programs at Venturelab (Swiss startup accelerators), where I coached hundreds of early-stage companies through business model design, fundraising, and go-to-market strategy.
 

@@ -16,7 +16,8 @@ The best technology succeeds when developers build what works, business models s
 
 ## Current Projects
 
-**Cascadeflow** - stay tuned
+**Cascadeflow** - Smart AI model cascading for cost optimization. Now launched: [cascadeflow](https://github.com/lemony-ai/cascadeflow)
+cascadeflow is an intelligent AI model cascading library that dynamically selects the optimal model for each query or tool call through speculative execution. It's based on the research that 40-70% of queries don't require slow, expensive flagship models, and domain-specific smaller models often outperform large general-purpose models on specialized tasks. For the remaining queries that need advanced reasoning, Cascadeflow automatically escalates to flagship models if needed.
 
 **awesome-tech-to-business** – A collection of resources for turning technology into commercial success: business model templates, GTM frameworks, and translation tools. (Coming soon)
 

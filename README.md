@@ -14,14 +14,11 @@ I have a PhD in Business Innovation, which is a fancy way of saying I've spent y
 
 The best technology succeeds when developers build what works, business models support innovation, and commercial strategy matches technical excellence. I'm on GitHub because I believe open source wins, and I want to create resources that bridge the gap between tech, business, and market.
 
-## Current Projects
-
-**Cascadeflow** - Smart AI model cascading for cost optimization. Now launched: [cascadeflow](https://github.com/lemony-ai/cascadeflow)
+## Projects
+- **[cascadeflow](https://github.com/lemony-ai/cascadeflow)** - Open source AI cost optimization (40-85% savings)
 cascadeflow is an intelligent AI model cascading library that dynamically selects the optimal model for each query or tool call through speculative execution. It's based on the research that 40-70% of queries don't require slow, expensive flagship models, and domain-specific smaller models often outperform large general-purpose models on specialized tasks. For the remaining queries that need advanced reasoning, Cascadeflow automatically escalates to flagship models if needed.
-
-**awesome-tech-to-business** – A collection of resources for turning technology into commercial success: business model templates, GTM frameworks, and translation tools. (Coming soon)
-
-**awesome-open-core-business-models** – Business model playbooks and pricing strategies from companies like GitLab, Elastic, and MongoDB. (Coming soon)
+- **[business-roi-framework-ai](https://github.com/your-username/business-roi-framework-ai)** - Framework for translating tech into business value
+- **[awesome-tech-to-business](https://github.com/your-username/awesome-tech-to-business)** - Curated resources for commercial success (building)
 
 ## Previous Work
 

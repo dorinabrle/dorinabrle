@@ -17,8 +17,8 @@ The best technology succeeds when developers build what works, business models s
 ## Projects
 - **[cascadeflow](https://github.com/lemony-ai/cascadeflow)** - Open source AI cost optimization (40-85% savings).
 cascadeflow is an intelligent AI model cascading library that dynamically selects the optimal model for each query or tool call through speculative execution. It's based on the research that 40-70% of queries don't require slow, expensive flagship models, and domain-specific smaller models often outperform large general-purpose models on specialized tasks. For the remaining queries that need advanced reasoning, Cascadeflow automatically escalates to flagship models if needed.
-- **[business-roi-framework-ai](https://github.com/your-username/business-roi-framework-ai)** - Framework for translating tech into business value
-- **[awesome-tech-to-business](https://github.com/your-username/awesome-tech-to-business)** - Curated resources for commercial success (building)
+- **[business-roi-framework-ai](https://github.com/dorinabrle/business-roi-framework-ai)** - Framework for translating tech into business value
+- **[awesome-tech-to-business](https://github.com/dorinabrle/awesome-tech-to-business)** - Curated resources for commercial success (building)
 
 ## Previous Work
 
